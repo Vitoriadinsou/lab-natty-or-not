@@ -15,6 +15,3 @@ Utilizei o "ChatGPT"  para criar o conteúdo do podcast e desenvolver o roteiro.
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, aborda sua aplicação no cotidiano e apresenta as perspectivas futuras.
 
 [LINK PARA O PODCAST AQUI](https://share.descript.com/view/c3AsqXw2ta2)
-
-## 💭 Reflexão (Opcional)
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
