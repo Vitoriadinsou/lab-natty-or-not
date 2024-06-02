@@ -1,7 +1,7 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Podcast: IA no cotidiano e sua perspectiva no futuro 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
@@ -14,7 +14,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[Link para o Podcast](https://share.descript.com/view/c3AsqXw2ta2)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
